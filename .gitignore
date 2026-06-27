@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Environment variables / secrets
+.env
+*.env
+
+# Runtime data (generated at runtime, not source)
+assets/reminders.db
+assets/timers.json
+assets/timers_alarms.json
+
+# Spotify cache (spotipy stores auth tokens here)
+.cache
+.cache-*
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+handoff.md
+implementation_plan.md

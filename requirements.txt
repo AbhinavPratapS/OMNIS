@@ -1,0 +1,13 @@
+
+google-generativeai
+beautifulsoup4
+fake-useragent
+requests
+pyttsx3
+openwakeword
+SpeechRecognition
+spotipy
+fuzzywuzzy
+python-Levenshtein
+rich
+numpy
